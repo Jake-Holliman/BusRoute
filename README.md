@@ -1,1 +1,1 @@
-Future improvments to routes and infastructure. Awesome real-world application to design and follow. 
+Future improvments to routes and infastructure. Awesome real-world application to design and follow. Updates to be made, as far as updating the icons to tack real time, as well as adding animations to possible obstacles as changes to roadways occur. 
